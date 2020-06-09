@@ -1,4 +1,4 @@
-# china-trivia-with-alexa-apl
+# china-trivia-with-alexa-apl  by Tiger Peng
 china trivia multimodal support with Alexa APL
 
 ## Inspiration
